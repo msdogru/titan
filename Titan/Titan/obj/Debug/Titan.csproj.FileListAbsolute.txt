@@ -1,0 +1,81 @@
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\bin\Debug\Titan.exe.config
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\bin\Debug\Titan.exe
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\bin\Debug\Titan.pdb
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.csprojResolveAssemblyReference.cache
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.Properties.Resources.resources
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.Titan.resources
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.csproj.GenerateResource.Cache
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.exe
+c:\users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.pdb
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.TitanGiris.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.Yeni_Kullanıcı.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.AracEkle.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.AracServisDurumu.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.YeniServisGirisi.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.YeniSirketEkle.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\bin\Debug\BetterListBox.dll
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\bin\Debug\BetterListBox.pdb
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.ServisKapatmaEkranı.resources
+C:\Users\m.salih\documents\visual studio 2012\Projects\Titan\Titan\obj\Debug\Titan.GecmisServisDurmu.resources
+C:\Users\m.salih\Desktop\Titan\Titan\bin\Debug\Titan.exe.config
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.exe
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.pdb
+C:\Users\m.salih\Desktop\Titan\Titan\bin\Debug\Titan.exe
+C:\Users\m.salih\Desktop\Titan\Titan\bin\Debug\Titan.pdb
+C:\Users\m.salih\Desktop\Titan\Titan\bin\Debug\BetterListBox.dll
+C:\Users\m.salih\Desktop\Titan\Titan\bin\Debug\BetterListBox.pdb
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.csprojResolveAssemblyReference.cache
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.AracEkle.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.AracServisDurumu.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.GecmisServisDurmu.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.Properties.Resources.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.ServisKapatmaEkranı.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.Titan.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.TitanGiris.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.YeniServisGirisi.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.YeniSirketEkle.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.Yeni_Kullanıcı.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.csproj.GenerateResource.Cache
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.GecmisServisleriGoruntule.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\RdlCompile.cache
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\RdlCompile.compiled
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.Fatura.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.AracBilgisiDuzenle.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.AracınGecmisServisleriniSistemdenKAldırma.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.AracıSistemdenSilme.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.DigerIslemler.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.KullanıcıBilgisiDuzenle.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.KullanıcıSilme.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.SirketBilgileriDuzenle.resources
+C:\Users\m.salih\Desktop\Titan\Titan\obj\Debug\Titan.SirketSilme.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\bin\Debug\Titan.exe.config
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.exe
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.pdb
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\bin\Debug\Titan.exe
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\bin\Debug\Titan.pdb
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\bin\Debug\BetterListBox.dll
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\bin\Debug\BetterListBox.pdb
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.csprojResolveAssemblyReference.cache
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.AracBilgisiDuzenle.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.AracEkle.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.AracServisDurumu.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.AracınGecmisServisleriniSistemdenKAldırma.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.AracıSistemdenSilme.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.DigerIslemler.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.Fatura.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.GecmisServisDurmu.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.GecmisServisleriGoruntule.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.KullanıcıBilgisiDuzenle.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.KullanıcıSilme.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.Properties.Resources.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.ServisKapatmaEkranı.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.SirketBilgileriDuzenle.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.SirketSilme.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.Titan.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.TitanGiris.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.YeniServisGirisi.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.YeniSirketEkle.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.Yeni_Kullanıcı.resources
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\Titan.csproj.GenerateResource.Cache
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\RdlCompile.cache
+C:\Users\m.salih\Desktop\Çalışır durumdakiler\02.06.2015\Titan\Titan\obj\Debug\RdlCompile.compiled

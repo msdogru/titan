@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F43DB8AC-B6C6-4336-AE3B-E571B9893FD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Titan</RootNamespace>
+    <AssemblyName>Titan</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AracBilgisiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracBilgisiDuzenle.Designer.cs">
+      <DependentUpon>AracBilgisiDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracEkle.Designer.cs">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracServisDurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracServisDurumu.Designer.cs">
+      <DependentUpon>AracServisDurumu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracınGecmisServisleriniSistemdenKAldırma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracınGecmisServisleriniSistemdenKAldırma.Designer.cs">
+      <DependentUpon>AracınGecmisServisleriniSistemdenKAldırma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracıSistemdenSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracıSistemdenSilme.Designer.cs">
+      <DependentUpon>AracıSistemdenSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DigerIslemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigerIslemler.Designer.cs">
+      <DependentUpon>DigerIslemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fatura.Designer.cs">
+      <DependentUpon>Fatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GecmisServisDurmu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GecmisServisDurmu.Designer.cs">
+      <DependentUpon>GecmisServisDurmu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GecmisServisleriGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GecmisServisleriGoruntule.Designer.cs">
+      <DependentUpon>GecmisServisleriGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıBilgisiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıBilgisiDuzenle.Designer.cs">
+      <DependentUpon>KullanıcıBilgisiDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıSilme.Designer.cs">
+      <DependentUpon>KullanıcıSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServisKapatmaEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServisKapatmaEkranı.Designer.cs">
+      <DependentUpon>ServisKapatmaEkranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SirketBilgileriDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SirketBilgileriDuzenle.Designer.cs">
+      <DependentUpon>SirketBilgileriDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SirketSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SirketSilme.Designer.cs">
+      <DependentUpon>SirketSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Titan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Titan.Designer.cs">
+      <DependentUpon>Titan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TitanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TitanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TitanGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TitanGiris.Designer.cs">
+      <DependentUpon>TitanGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniServisGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniServisGirisi.Designer.cs">
+      <DependentUpon>YeniServisGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniSirketEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniSirketEkle.Designer.cs">
+      <DependentUpon>YeniSirketEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yeni_Kullanıcı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yeni_Kullanıcı.Designer.cs">
+      <DependentUpon>Yeni_Kullanıcı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yönlendirmeler.cs" />
+    <EmbeddedResource Include="AracBilgisiDuzenle.resx">
+      <DependentUpon>AracBilgisiDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracEkle.resx">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracServisDurumu.resx">
+      <DependentUpon>AracServisDurumu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracınGecmisServisleriniSistemdenKAldırma.resx">
+      <DependentUpon>AracınGecmisServisleriniSistemdenKAldırma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracıSistemdenSilme.resx">
+      <DependentUpon>AracıSistemdenSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigerIslemler.resx">
+      <DependentUpon>DigerIslemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fatura.resx">
+      <DependentUpon>Fatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GecmisServisDurmu.resx">
+      <DependentUpon>GecmisServisDurmu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GecmisServisleriGoruntule.resx">
+      <DependentUpon>GecmisServisleriGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıBilgisiDuzenle.resx">
+      <DependentUpon>KullanıcıBilgisiDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıSilme.resx">
+      <DependentUpon>KullanıcıSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="ServisKapatmaEkranı.resx">
+      <DependentUpon>ServisKapatmaEkranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SirketBilgileriDuzenle.resx">
+      <DependentUpon>SirketBilgileriDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SirketSilme.resx">
+      <DependentUpon>SirketSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Titan.resx">
+      <DependentUpon>Titan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TitanGiris.resx">
+      <DependentUpon>TitanGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniServisGirisi.resx">
+      <DependentUpon>YeniServisGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniSirketEkle.resx">
+      <DependentUpon>YeniSirketEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yeni_Kullanıcı.resx">
+      <DependentUpon>Yeni_Kullanıcı.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TitanDataSet.xsc">
+      <DependentUpon>TitanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TitanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TitanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TitanDataSet.xss">
+      <DependentUpon>TitanDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BetterListBox\BetterListBox.csproj">
+      <Project>{0765C8FA-D8A8-4AE3-B604-4E42A017C338}</Project>
+      <Name>BetterListBox</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_635381817596763439.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
